@@ -2,7 +2,7 @@
 
 `doc2md` — консольная утилита для преобразования документов TXT, HTML/HTM и DOCX в Markdown. В качестве входного файла можно указать локальный путь или HTTP(S)-ссылку.
 
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/) 
 
 ## Установка
 
@@ -143,12 +143,13 @@ black --check .
 docker build -t doc2md .
 ```
 
-## Лицензия
-
-Проект распространяется по лицензии MIT. Текст лицензии следует добавить в файл `LICENSE` в корне репозитория.
 
 ## Автор и контакты
 
-Автор: Your Name
+Автор: gZEVI
 
-Контакты: `email`
+Контакты: 
+
+mail:`sergorbachev27@gmail.com` , `gorbachev.sa.1@gmail.com` ;
+
+tg: @gZEVI
