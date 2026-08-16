@@ -149,5 +149,5 @@ docker build -t doc2md .
 Автор: gZEVI
 
 Контакты: 
-  mail:`sergorbachev27@gmail.com` ; `gorbachev.sa.1@gmail.com`
-  tg: @gZEVI
+mail:`sergorbachev27@gmail.com` , `gorbachev.sa.1@gmail.com` :
+tg: @gZEVI
